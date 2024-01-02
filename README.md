@@ -10,4 +10,4 @@ Process an array-based dataset representing financial records (Date and Profit/L
   ![Preview Image](./assets/images/preview.png)
 
 ## Deployment
-  [Try the Live Application](https://calebtkjordan.github.io/Console-Finances/)
+  [Visit the Live Application](https://calebtkjordan.github.io/Console-Finances/)
